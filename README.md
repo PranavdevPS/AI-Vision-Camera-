@@ -1,4 +1,4 @@
-# Design and Implementation of a Low Cost Portable AI System
+# AI Vision Camera 
 
 ## Description
 This project uses ESP32-CAM to capture images and analyze them using AI (OpenAI API). The output is displayed on an OLED screen.
